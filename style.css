@@ -69,3 +69,9 @@ h6 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 10px;
 }
+
+iframe {
+    width: 150px;
+    height: 100px;
+    justify-content: flex-start;
+}

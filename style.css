@@ -10,9 +10,62 @@ body {
 
 p {
     text-indent: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 
 img {
     width: 500px;
     height: 500px;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 75px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 55px;
+}
+
+h4 {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 35px;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20px;
+}
+
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10px;
 }
